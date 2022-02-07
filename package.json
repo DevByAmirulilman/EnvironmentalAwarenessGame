@@ -2,7 +2,7 @@
   "name": "finalyearproject",
   "version": "1.0.0",
   "description": "Three js game for final year project",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
